@@ -11,9 +11,10 @@ This portfolio includes:
 
 🛠️ How I Created It
 I built this portfolio using:
-
 HTML for the structure of the pages
+
 CSS for styling and responsive design
+
 JavaScript for interactivity
 
 It is a static website — no frameworks were used. The design is fully custom and coded from scratch.
