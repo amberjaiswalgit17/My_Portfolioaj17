@@ -3,17 +3,17 @@ This is a personal portfolio website created to showcase my skills, projects, an
 The website is designed with a clean and responsive layout to give a professional look and feel.
 
 ✨ About the Project
-This portfolio includes:
-✅ A landing section with an introduction
-✅ Details about my skills and expertise
-✅ A projects section highlighting my work
-✅ Contact information
+This portfolio includes: <br>
+✅ A landing section with an introduction <br>
+✅ Details about my skills and expertise <br>
+✅ A projects section highlighting my work <br>
+✅ Contact information <br>
 
-🛠️ How I Created It
-I built this portfolio using:
-HTML for the structure of the pages
-CSS for styling and responsive design
-JavaScript for interactivity
+🛠️ How I Created It <br>
+I built this portfolio using: <br>
+HTML for the structure of the pages <br>
+CSS for styling and responsive design <br>
+JavaScript for interactivity <br>
 
 It is a static website — no frameworks were used. The design is fully custom and coded from scratch.
 I used GitHub to manage the project and version control. The site is deployed using Netlify for fast and reliable hosting.
